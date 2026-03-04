@@ -5,8 +5,3 @@
 ```
 irm https://raw.githubusercontent.com/waput90/activator/main/win.ps1 | iex
 ```
-
-#### fallback command:
-```
-irm https://get.activated.win | iex
-```
