@@ -3,7 +3,7 @@
 
 if (-not $args) {
     Write-Host ''
-    Write-Host 'Decoded by o--[]===> ' -NoNewline
+    Write-Host 'Decoded by JT' -NoNewline
     Write-Host ''
 }
 
